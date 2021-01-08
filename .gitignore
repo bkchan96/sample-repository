@@ -1,0 +1,8 @@
+# Inore file name 'README.txt'
+README.txt
+
+# Ignore folder named 'output'
+output/
+
+#Ignore all .java files
+*.java
